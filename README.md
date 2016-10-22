@@ -19,6 +19,7 @@ Software:
 Before you start: 
 - Install Python3 with Flask
 - Install openport
+- Install required GPIO library to work in python (for CHIP: https://github.com/xtacocorex/CHIP_IO)
 
 
 app.py
